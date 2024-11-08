@@ -13,7 +13,7 @@
     "@snowpack/plugin-optimize": "^0.2.7",
     "@snowpack/plugin-webpack": "^2.1.0",
     "raw-loader": "^4.0.2",
-    "snowpack": "^2.16.1",
+    "snowpack": "^3.0.1",
     "term-web": "^1.1.8"
   },
   "devDependencies": {
